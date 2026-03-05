@@ -9,3 +9,6 @@ dotnet build
 dotnet run
 :: limpa a tela do console
 cls
+:: Após encerra limpe o build:
+dotnet clean
+::

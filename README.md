@@ -1,5 +1,10 @@
 # Dia 1
 
+---
+
+![PDV Básico | Oficina Prepara LEM](https://www.jorgesouza.com.br/files/pdv.jpg)
+
+
 ### Instale o SDK do .NET
 
 Acesse: https://dotnet.microsoft.com/pt-br/download

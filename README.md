@@ -71,3 +71,8 @@ dotnet new --list
 
 > Seu instrutor deve lhe explicar os principais templates, para que servem e como usá-los.
 
+### Iniciando projeto
+
+```bash
+dotnet new web
+```
